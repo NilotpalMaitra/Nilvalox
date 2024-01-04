@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nilvalox
+- 👋 Hi, I’m @Nilotpal
 - 👀 I’m currently exploring different fields 
 - 🌱 I’m currently exploring basics of machine learning 
 - 💞️ I’m looking to collaborate on ...
